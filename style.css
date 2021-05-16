@@ -1,0 +1,37 @@
+* {
+
+}
+
+h1 {
+    font-family: 'Helvetica';
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('../images/pattern.jpeg');
+}
+
+h2 {
+    font-family: 'Helvetica';
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.titleGreen {
+    background-color: mediumspringgreen;
+}
+
+.titleRed {
+    background-color: lightcoral;
+}
+
+.titleBlue {
+    background-color: skyblue;
+}
+
+.boldPrice {
+    font-family: 'Helvetica';
+    font-weight: bold;
+    color: blue;
+} 
